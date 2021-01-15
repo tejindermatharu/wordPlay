@@ -1,0 +1,19 @@
+.drop-down {
+  width: 100px;
+  .main-selector {
+    border: black solid 1px;
+    height: 20px;
+    padding-right: 5px;
+    text-align: right;
+  }
+
+  .drop-down-list li {
+    list-style: none;
+    text-align: left;
+    cursor: pointer;
+  }
+
+  .drop-down-list .highlight {
+    background: pink;
+  }
+}

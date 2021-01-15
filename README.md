@@ -1,2 +1,2 @@
-# wordPlay
+# ReactPlay
 Created with CodeSandbox
